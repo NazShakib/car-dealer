@@ -59,10 +59,10 @@ const App = Vue.createApp({
         // gallery items
         axios.get('../data/car_data.json', config)
             .then(response => {
-                this.gallery_items = response.data;
-                this.total = Object.keys(this.gallery_items).length
-                // random = randomIntFromInterval(1, this.total-5);
-                // this.gallery_items= Object.entries(this.records).slice(random,random+6).map(entry => entry[1]);
+                const data = response.data;
+                this.total = Object.keys(data).length
+                const startIndex = randomIntFromInterval(1, this.total-5);
+                this.gallery_items= Object.entries(data).slice(startIndex,startIndex+6).map(entry => entry[1]);
             })
             .catch((e) => {
                 console.error(e)
