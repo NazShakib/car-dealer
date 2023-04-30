@@ -1,28 +1,34 @@
-import { Email } from "@../smtp/smtp.js";
+// import { Email } from "./smtp/smtp.js";
 // https://www.youtube.com/watch?v=5EZsRnJpUNU
+// info@rnsautomobiles.net
 
 const App =  Vue.createApp({
 
     data(){
         return {
             name: "",
-            email: "",
-            message: ""
+            toEmail: "coder.rafi@gmail.com",
+            message: "",
+            fromEmail: "",
+            phone:"",
+            title:"New Notification From Contact Box!",
+            responseMessage: ""
         }
     },
     methods:{
-        prepareMessageBody(){
-          return "";
-        },
         sentEmail(){
-            Email.send({
-                SecureToken : "",
-                To : this.email,
-                From : "",
-                Subject : "New Notification From Contact Box!",
-                Body : this.prepareMessageBody()
+            emailjs.init('KiRckaBys43aXYxQ0');
+            emailjs.send("service_8e2ue89","template_mn2ouy7",{
+                name: this.name,
+                phone: this.phone,
+                message: this.message,
+                title: this.title,
+                fromEmail: this.fromEmail,
+                toEmail: this.toEmail,
             }).then(
-                message => alert(message)
+                message => {
+                    this.responseMessage = message
+                }
             );
         }
 

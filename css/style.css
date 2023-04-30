@@ -37,8 +37,14 @@ https://templatemo.com/tm-516-known
     font-size: 2em;
     padding-bottom: 10px;
   }
+h6 {
+  color: #faf7f7;
+  font-size: 1em;
+  padding-bottom: 10px;
+}
 
-  h3 {
+
+h3 {
     font-size: 1.5em;
   }
 
@@ -394,16 +400,16 @@ https://templatemo.com/tm-516-known
   .caption h3 a:hover { color: #FF3; }
 
   .home-slider .item-first {
-    background-image: url(../images/slider-image-1-1920x700.jpg);
+    background-image: url(../images/home/slider-image-1.jpg);
 	background-position: center;
   }
 
   .home-slider .item-second {
-    background-image: url(../images/slider-image-2-1920x700.jpg);
+    background-image: url(../images/home/slider-image-2.jpg);
   }
 
   .home-slider .item-third {
-    background-image: url(../images/slider-image-3-1920x700.jpg);
+    background-image: url(../images/home/slider-image-3.jpg);
   }
 
 
@@ -1056,4 +1062,11 @@ https://templatemo.com/tm-516-known
 .nopadding {
   padding: 1px !important;
   margin: 1px !important;
+}
+
+.sm-icons {
+  flex-direction: row;
+}
+.sm-icons .nav-link {
+  padding-right: 1em;
 }
