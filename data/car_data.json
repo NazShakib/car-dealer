@@ -2,7 +2,10 @@
   "1": {
     "thumbnail_img": "./images/gallery/product-1-720x480.jpg",
     "cc": "1800 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
@@ -10,12 +13,16 @@
       "./images/gallery/product-4-720x480.jpg",
       "./images/gallery/product-5-720x480.jpg"
     ],
-    "description": "abbhdhsdsdh"
+    "description": "abbhdhsdsdh",
+
   },
   "2": {
     "thumbnail_img": "./images/gallery/product-2-720x480.jpg",
     "cc": "1900 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
@@ -28,7 +35,10 @@
   "3": {
     "thumbnail_img": "./images/gallery/product-3-720x480.jpg",
     "cc": "1900 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
@@ -41,7 +51,10 @@
   "4": {
     "thumbnail_img": "./images/gallery/product-1-720x480.jpg",
     "cc": "1800 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
@@ -54,7 +67,10 @@
   "5": {
     "thumbnail_img": "./images/gallery/product-2-720x480.jpg",
     "cc": "1900 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
@@ -67,7 +83,10 @@
   "6": {
     "thumbnail_img": "./images/gallery/product-3-720x480.jpg",
     "cc": "1900 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
@@ -80,7 +99,10 @@
   "7": {
     "thumbnail_img": "./images/gallery/product-3-720x480.jpg",
     "cc": "1900 cc",
-    "gear": "Auto",
+    "manufacturer": "Toyota",
+    "year": "2010",
+    "package": "Beige",
+    "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
       "./images/gallery/product-2-720x480.jpg",
