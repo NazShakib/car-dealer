@@ -1070,3 +1070,10 @@ h3 {
 .sm-icons .nav-link {
   padding-right: 1em;
 }
+
+#footer i
+{
+  width: 20px;
+  color: white;
+  font-size: 18px;
+}
