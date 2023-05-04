@@ -3,12 +3,6 @@ const App = Vue.createApp({
         return {
             gallery_items :[],
             total: 0,
-            happyCustomer: [
-                "https://cdn.pixabay.com/photo/2015/12/12/15/24/amsterdam-1089646_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/02/17/23/03/usa-1206240_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/05/15/14/27/eiffel-tower-768501_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/12/04/19/30/berlin-cathedral-1882397_1280.jpg"
-            ],
             current: 0,
             slides: [],
             speed: 3000,
@@ -61,8 +55,8 @@ const App = Vue.createApp({
             .then(response => {
                 const data = response.data;
                 this.total = Object.keys(data).length
-                const startIndex = randomIntFromInterval(1, this.total-5);
-                this.gallery_items= Object.entries(data).slice(startIndex,startIndex+6).map(entry => entry[1]);
+                const startIndex = randomIntFromInterval(1, this.total-6);
+                this.gallery_items= Object.entries(data).slice(startIndex,startIndex+7).map(entry => entry[1]);
             })
             .catch((e) => {
                 console.error(e)
@@ -71,9 +65,10 @@ const App = Vue.createApp({
         this.startRotation();
     },
     created: function () {
-        axios.get('https://s3-us-west-2.amazonaws.com/s.cdpn.io/4723/slides.json')
+        axios.get('../data/happy_customer.json')
             .then(function (response) {
                 this.slides = response.data.slides
+                console.log(this.slides);
             }.bind(this))
             .catch(function (error) {
                 console.log(error);
