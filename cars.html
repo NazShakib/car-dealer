@@ -104,13 +104,12 @@
                               </div>
 
                               <div class="courses-detail">
-                                   <h3><a :href="'car-details.html?item='+ record.id">Lorem ipsum dolor sit amet</a></h3>
-
-                                   <p class="lead"><small><del> $11199.00</del></small> <strong>$11179.00</strong></p>
-
-                                   <p>190 hp &nbsp;&nbsp;/&nbsp;&nbsp; Petrol &nbsp;&nbsp;/&nbsp;&nbsp; 2008 &nbsp;&nbsp;/&nbsp;&nbsp; Used vehicle</p>
+                                   <h3><a :href="'car-details.html?item='+ record.id">{{ record.car_introduction }}</a></h3>
                               </div>
-
+                              <div style="width: 80%; margin-left: 10%; padding: 3px">
+                                   <strong><a href="tel:+8801711-333321" title="+8801711-333321"
+                                              class="btn btn-primary btn-block">Call Now</a></strong>
+                              </div>
                               <div class="courses-info">
                                    <a :href="'car-details.html?item='+ record.id" class="section-btn btn btn-primary btn-block">View More</a>
                               </div>
