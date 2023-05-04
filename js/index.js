@@ -6,7 +6,8 @@ const App = Vue.createApp({
             current: 0,
             slides: [],
             speed: 3000,
-            timer: null
+            timer: null,
+            width: "80%"
         }
     },
     methods: {

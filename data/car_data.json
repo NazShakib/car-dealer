@@ -1,127 +1,154 @@
 {
   "1": {
     "id": "1",
-    "thumbnail_img": "./images/gallery/product-1-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_primio_item_1_1.jpeg",
+    "car_introduction": "Toyota Premio",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
-    "color": "White",
+    "year": "2017",
+    "package": "FL",
+    "color": "Bronze",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_primio_item_1_2.jpeg",
+      "./images/gallery/toyota_primio_item_1_3.jpeg",
+      "./images/gallery/toyota_primio_item_1_4.jpeg"
     ],
     "description": "abbhdhsdsdh"
   },
   "2": {
     "id": "2",
-    "thumbnail_img": "./images/gallery/product-2-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_primio_item_2_1.jpeg",
+    "car_introduction": "Toyota Premio",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
-    "color": "White",
+    "year": "2018",
+    "package": "FL",
+    "color": "Pearl",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_primio_item_2_2.jpeg",
+      "./images/gallery/toyota_primio_item_2_3.jpeg",
+      "./images/gallery/toyota_primio_item_2_4.jpeg"
     ],
     "description": "abbhdhsdsdh0jsjs"
   },
   "3": {
     "id": "3",
-    "thumbnail_img": "./images/gallery/product-3-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_primio_item_3_1.jpeg",
+    "car_introduction": "Toyota Premio",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
-    "color": "White",
+    "year": "2019",
+    "package": "F-EX",
+    "color": "Pearl",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_primio_item_3_2.jpeg",
+      "./images/gallery/toyota_primio_item_3_3.jpeg",
+      "./images/gallery/toyota_primio_item_3_4.jpeg"
     ],
     "description": "abbhdhsdsdh0jsjs"
   },
   "4": {
     "id": "4",
-    "thumbnail_img": "./images/gallery/product-1-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_esquire_item_1_1.jpeg",
+    "car_introduction": "Toyota Esquire",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
-    "color": "White",
+    "year": "2017",
+    "package": "GI",
+    "color": "Pearl",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_esquire_item_1_2.jpeg",
+      "./images/gallery/toyota_esquire_item_1_3.jpeg",
+      "./images/gallery/toyota_esquire_item_1_4.jpeg"
     ],
     "description": "abbhdhsdsdh"
   },
   "5": {
     "id": "5",
-    "thumbnail_img": "./images/gallery/product-2-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_primio_item_4_1.jpeg",
+    "car_introduction": "Toyota Premio",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
-    "color": "White",
+    "year": "2018",
+    "package": "FL-LED",
+    "color": "Pearl",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_primio_item_4_2.jpeg",
+      "./images/gallery/toyota_primio_item_4_3.jpeg",
+      "./images/gallery/toyota_primio_item_4_4.jpeg"
     ],
     "description": "abbhdhsdsdh0jsjs"
   },
   "6": {
     "id": "6",
-    "thumbnail_img": "./images/gallery/product-3-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_chr_item_1_1.jpeg",
+    "car_introduction": "Toyota C-HR",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
-    "color": "White",
+    "year": "2017",
+    "package": "G-LED",
+    "color": "Bronze",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_chr_item_1_2.jpeg",
+      "./images/gallery/toyota_chr_item_1_3.jpeg",
+      "./images/gallery/toyota_chr_item_1_4.jpeg"
     ],
     "description": "abbhdhsdsdh0jsjs"
   },
   "7": {
     "id": "7",
-    "thumbnail_img": "./images/gallery/product-3-720x480.jpg",
-    "car_introduction": "Toyota Model 1",
+    "thumbnail_img": "./images/gallery/toyota_axio_item_1_1.jpeg",
+    "car_introduction": "Toyota AXIO HYBRID",
     "cc": "1800 cc",
     "manufacturer": "Toyota",
-    "year": "2010",
-    "package": "Beige",
+    "year": "2018",
+    "package": "X",
     "color": "White",
     "fuel_type": "Octane,Hybrid",
     "image_list": [
-      "./images/gallery/product-2-720x480.jpg",
-      "./images/gallery/product-3-720x480.jpg",
-      "./images/gallery/product-4-720x480.jpg",
-      "./images/gallery/product-5-720x480.jpg"
+      "./images/gallery/toyota_axio_item_1_2.jpeg",
+      "./images/gallery/toyota_axio_item_1_3.jpeg",
+      "./images/gallery/toyota_axio_item_1_4.jpeg"
+    ],
+    "description": "abbhdhsdsdh0jsjs"
+  },
+  "8": {
+    "id": "8",
+    "thumbnail_img": "./images/gallery/toyota_chr_item_2_1.jpeg",
+    "car_introduction": "Toyota C-HR",
+    "cc": "1800 cc",
+    "manufacturer": "Toyota",
+    "year": "2018",
+    "package": "G-LED",
+    "color": "Yellow",
+    "fuel_type": "Octane,Hybrid",
+    "image_list": [
+      "./images/gallery/toyota_chr_item_2_2.jpeg",
+      "./images/gallery/toyota_chr_item_2_3.jpeg",
+      "./images/gallery/toyota_chr_item_2_4.jpeg"
+    ],
+    "description": "abbhdhsdsdh0jsjs"
+  },
+  "9": {
+    "id": "9",
+    "thumbnail_img": "./images/gallery/honda_chr_item_1_1.jpeg",
+    "car_introduction": "Honda CR-V",
+    "cc": "1800 cc",
+    "manufacturer": "Honda",
+    "year": "2019",
+    "package": "Ex Masterpiece",
+    "color": "Pearl",
+    "fuel_type": "Octane,Hybrid",
+    "image_list": [
+      "./images/gallery/honda_chr_item_1_2.jpeg",
+      "./images/gallery/honda_chr_item_1_3.jpeg",
+      "./images/gallery/honda_chr_item_1_4.jpeg"
     ],
     "description": "abbhdhsdsdh0jsjs"
   }
