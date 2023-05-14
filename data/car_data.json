@@ -151,5 +151,22 @@
       "./images/gallery/honda_chr_item_1_4.jpeg"
     ],
     "description": "abbhdhsdsdh0jsjs"
+  },
+  "10": {
+    "id": "10",
+    "thumbnail_img": "./images/gallery/toyaotae_esquire_item_2_image_1.jpeg",
+    "car_introduction": "Esquire Gi Premium",
+    "cc": "1800 cc",
+    "manufacturer": "Toyota",
+    "year": "2017",
+    "package": "Gi Premium",
+    "color": "Purple",
+    "fuel_type": "Octane,Hybrid",
+    "image_list": [
+      "./images/gallery/toyaotae_esquire_item_2_image_2.jpeg",
+      "./images/gallery/toyaotae_esquire_item_2_image_3.jpeg",
+      "./images/gallery/toyaotae_esquire_item_2_image_4.jpeg"
+    ],
+    "description": "Esquire Gi Premium With Brown Interior Power Door Orginal Mileage and Orginal Auction Point"
   }
 }
